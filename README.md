@@ -15,7 +15,7 @@ Built from scratch and deployed on Heroku. The app follows the MVC paradigm in i
 ## Usage
 To use this application, clone the repository to your local machine:
 ```
-git clone https://github.com/lisahuele/e-commerce-backend.git
+git clone https://github.com/lisahuele/MVC-tech-blog.git
 ```
 
 Then, ensure you have installed the dependencies.
